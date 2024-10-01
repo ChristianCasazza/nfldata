@@ -3,11 +3,8 @@
 title: Flex Stats
 ---
 
-Markdown can be used to write expressively in text.
 
 - **View stats** for _RBs_, _WRs_, and _TEs_
-
-
 
 
 ## EPA Leaders from RBs. WRs, and TEs:

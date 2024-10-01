@@ -1,0 +1,1 @@
+select * from passer_stats
