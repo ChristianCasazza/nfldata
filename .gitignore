@@ -1,13 +1,14 @@
 .venv
 *.pyc
 *.pyo
-__pycache__/
-.mypy_cache/
-.pytest_cache/
+*__pycache__/*
+*.mypy_cache/*
+*.pytest_cache/*
 
 dbt_packages/
-logs/
-target/
+nfl/transformations/dbt/targetlogs/
+nfl/transformations/dbt/target/
 nfl/transformations/dbt/.user.yml
 .vscode/
 .idea/
+
