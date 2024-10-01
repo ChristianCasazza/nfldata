@@ -6,9 +6,9 @@
 *.pytest_cache/*
 
 dbt_packages/
-nfl/transformations/dbt/targetlogs/
+nfl/transformations/dbt/logs/
 nfl/transformations/dbt/target/
 nfl/transformations/dbt/.user.yml
 .vscode/
 .idea/
-
+nfl/logs
